@@ -1,7 +1,7 @@
 <table width="100%" class="table table-striped table-bordered table-hover" id="dataTables-sent">
     <thead>
     <tr><th>SNo.</th>
-        <th>Date & Time</th>
+        <th>Date &amp; Time</th>
         <th>Message to</th>
         <th>Message</th>
     </thead>
