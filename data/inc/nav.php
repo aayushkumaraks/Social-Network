@@ -132,7 +132,7 @@ if($_SESSION['auth']=='mod'){
     <!-- /.navbar-top-links -->
 
     <div class="navbar-default sidebar" role="navigation">
-        <div class="sidebar-nav navbar-collapse">
+        <div class="sidebar-nav navbar-collapse collapse">
             <ul class="nav" id="side-menu">
                 <li class="sidebar-search">
                     <?php echo '<img src="data:image/jpeg;base64,'.base64_encode($_SESSION['photo']).'" class="img-rounded img-responsive center-block" style="max-width:80%;max-height:50%;"/>' ?>
